@@ -77,5 +77,5 @@
 
 ### :nerd_face: Profile stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fdisotto&hide_border=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fdisotto&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub readme stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdisotto&theme=monokai&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
